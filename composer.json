@@ -1,7 +1,6 @@
 {
     "name": "ms580/busca-curso",
     "description": "Projeto que busca cursos no site da Alura",
-    "version": "1.0.1",
     "type": "library",
     "authors": [
         {
